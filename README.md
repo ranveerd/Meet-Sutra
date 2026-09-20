@@ -250,9 +250,3 @@ Free-tier LLM providers may log or use prompts, so avoid confidential recordings
 - MMR or hybrid (keyword plus vector) retrieval, and a larger `k` for broad questions
 - RAG evaluation with a small question set and a tool such as RAGAS
 - Speaker diarisation
-
----
-
-## License
-
-Add your license here.
